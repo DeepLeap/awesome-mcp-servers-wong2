@@ -393,6 +393,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Homey](https://github.com/pigmej/python-homey-mcp)** - Interact with Homey to control smart home system. Supports devices, flows, and zones. Contains a few goodies for better integrations with LLMs.
 - **[Homebrew MCP](https://github.com/jeannier/homebrew-mcp)** - Interact with Homebrew (the package manager for macOS and Linux) using natural language commands.
 - **[HuggingFace Spaces](https://github.com/evalstate/mcp-hfspace)** - Server for using HuggingFace Spaces, supporting Images, Audio, Text and more. Claude Desktop mode for ease-of-use.
+- **[HumanWire](https://github.com/DeepLeap/humanwire)** - Zero-dependency encrypted MCP server for connecting AI clients across machines via shared room codes, a 24-hour public Nostr plaza, or topic matching.
 - **[Imagician](https://github.com/flowy11/imagician)** - A MCP server for comprehensive image editing operations including resizing, format conversion, cropping, compression, and more based on sharp.
 - **[ImageSorcery MCP](https://github.com/sunriseapps/imagesorcery-mcp)** - ComputerVision-based 🪄 sorcery of image recognition and editing tools for AI assistants.
 - **[IMAP MCP](https://github.com/dominik1001/imap-mcp)** - 📧 An IMAP Model Context Protocol (MCP) server to expose IMAP operations as tools for AI assistants.
